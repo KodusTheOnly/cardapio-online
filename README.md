@@ -1,4 +1,4 @@
-# Cardápio Online — Dev Burger DF
+# Cardápio Online
 
 Aplicação simples de cardápio online com carrinho de compras e checkout via WhatsApp. Feita com HTML, Tailwind CSS e JavaScript vanilla, usando Toastify para notificações e Font Awesome para ícones.
 
